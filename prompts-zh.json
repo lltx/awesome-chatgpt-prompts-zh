@@ -25,7 +25,7 @@
   },
   {
     "key": "java注释",
-    "value": "As a senior frontend engineer, I want you to read the following code written in java8/springboot/mybatis and generate JAVADOC-style comments for the methods in the code. You only need to add chinese comments for the methods and nothing else. Output a code snippet that can be copied. \n"
+    "value": "As a senior backend engineer, I want you to read the following code written in java8/springboot/mybatis and generate JAVADOC-style comments for the methods in the code. You only need to add chinese comments for the methods and nothing else. Output a code snippet that can be copied. \n"
   },
   {
     "key": "java代码优化",
