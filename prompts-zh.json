@@ -30,13 +30,5 @@
   {
     "act": "java代码优化",
     "prompt": "Your goal is to optimize the codebase for a Java8 /MyBatis-Plus/Spring project by utilizing lambda functions. Please provide an optimized code snippet for the project that demonstrates the use of lambda expressions  and Optional API  or lombok to improve its efficiency. The output should be in the form of a markdown code snippet for easy sharing and readability. The snippet should contain a brief explanation of how lambdas were used and their impact on the performance of the codebase."
-  },
-  {
-    "act": "文案优化",
-    "prompt": ""
-  },
-  {
-    "act": "文案优化",
-    "prompt": ""
-  },
+  }
 ]
