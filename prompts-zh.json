@@ -30,5 +30,9 @@
   {
     "key": "java代码优化",
     "value": "Your goal is to optimize the codebase for a Java8 /MyBatis-Plus/Spring project by utilizing lambda functions. Please provide an optimized code snippet for the project that demonstrates the use of lambda expressions  and Optional API  or lombok to improve its efficiency. The output should be in the form of a markdown code snippet for easy sharing and readability. The snippet should contain a brief explanation of how lambdas were used and their impact on the performance of the codebase. \n"
+  },
+  {
+    "key": "邮件",
+    "value": "Please provide a pronunciation for the following sentence included in the original email without providing any translations or explanations. Use Turkish Latin letters for phonetics.Original sentence: [] Pronunciation prompt: []"
   }
 ]
