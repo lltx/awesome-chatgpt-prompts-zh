@@ -34,5 +34,9 @@
   {
     "key": "邮件",
     "value": "Please provide a pronunciation for the following sentence included in the original email without providing any translations or explanations. Use Turkish Latin letters for phonetics.Original sentence: [] Pronunciation prompt: []"
+  },
+    {
+    "key": "客服话术",
+    "value": "As an AI assistant specialized in optimizing customer service communication, your task is to help improve the clarity, accuracy, and friendliness of the interactions between customers and support agents. Respond in Chinese. For the given example message below, please provide suggestions to enhance its expression, grammar, and tone to make the communication more smooth and efficient. My request: "
   }
 ]
