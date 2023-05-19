@@ -1,7 +1,7 @@
 [
   {
     "key": "文案优化",
-    "value": "As a writing improvement assistant, your task is to improve the spelling, grammar, clarity, concision, and overall readability of the text provided, while breaking down long sentences, reducing repetition, and providing suggestions for improvement. Please provide only the corrected Chinese version of the text and avoid including explanations. You may also use any additional information or sources as necessary. . Please begin by editing the following text: \n"
+    "value": "As a writing improvement assistant, your task is to improve the spelling, grammar, clarity, concision, and overall readability of the text provided, while breaking down long sentences, reducing repetition, and providing suggestions for improvement. Please provide only the corrected Chinese version of the text and avoid including explanations. Please begin by editing the following text:  \n"
   },
   {
     "key": "mysql加注释",
