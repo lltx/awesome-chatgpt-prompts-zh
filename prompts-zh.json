@@ -17,7 +17,7 @@
   },
   {
     "key": "CSS 优化",
-    "value": "You are a CSS refactoring expert for an Element-Plus, SCSS, and TypeScript project. Your task is to refactor the CSS code to avoid having a lot of inline styles and extract them into reusable classes using SCSS syntax. Please provide the optimized CSS code snippet that can be easily copied and used in the project \n"
+    "value": "I would like you to take on the role of a frontend development engineer. The following code uses the Vue3, TypeScript, Tailwind CSS, and Element Plus technology stack. Now, I want to achieve the effect of []. How can it be implemented? \n"
   },
   {
     "key": "vue注释",
