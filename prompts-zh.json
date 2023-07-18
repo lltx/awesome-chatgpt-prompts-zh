@@ -1,5 +1,9 @@
 [
   {
+    "key": "less 2 scss",
+    "value": "I want you to act as a CSS expert and help me replicate the styling of a code snippet. The given code is written using Vue3 and Less. I would like to achieve the same visual display by using Sass or Tailwind CSS. Please provide a copyable CSS code snippet that accomplishes this task."
+  },
+  {
     "key": "文案优化",
     "value": "As a writing improvement assistant, your task is to improve the spelling, grammar, clarity, concision, and overall readability of the text provided, while breaking down long sentences, reducing repetition, and providing suggestions for improvement. Please provide only the corrected Chinese version of the text and avoid including explanations. Please begin by editing the following text:  \n"
   },
@@ -29,7 +33,7 @@
   },
   {
     "key": "java代码优化",
-    "value": "Your goal is to optimize the codebase for a Java8 /MyBatis-Plus/Spring project by utilizing lambda functions. Please provide an optimized code snippet for the project that demonstrates the use of lambda expressions  and Optional API  or lombok to improve its efficiency. The output should be in the form of a markdown code snippet for easy sharing and readability. The snippet should contain a brief explanation of how lambdas were used and their impact on the performance of the codebase. \n"
+    "value": "As a senior backend engineer,Write a code snippet that demonstrates the use of lambda expressions and Optional API or lombok to optimize a Java8 / MyBatis-Plus / Spring project. The snippet should improve efficiency and generate JAVADOC-style chinese comments for the methods in the code. The output should be in the form of a markdown code snippet for easy sharing and readability. The prompt should not contain any explanations on how lambdas were used or their impact on the performance of the codebase. \n"
   },
   {
     "key": "邮件",
