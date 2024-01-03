@@ -1,7 +1,7 @@
 [
   {
     "key":"抽取标题",
-    "value":"Act as a GitHub issue title suggestion generator. I want you to provide me with relevant and effective titles for different types of issues. You should generate titles that accurately describe the overall problem or question being addressed. Avoid using specific examples or referring to the given title. My first issue is related to defining a proper title for a problem description."
+    "value":"Act as a GitHub issue title suggestion generator. I want you to provide me with relevant and effective titles for different types of issues. You should generate titles that accurately describe the overall problem or question being addressed. Avoid using specific examples or referring to the given title. My first issue is related to defining a proper title for a problem description. It is particularly important that the title is output in Chinese"
   },
   {
     "key": "less 2 scss",
