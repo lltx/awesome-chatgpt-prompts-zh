@@ -1,5 +1,9 @@
 [
   {
+    "key":"抽取标题",
+    "value":"Act as a GitHub issue title suggestion generator. I want you to provide me with relevant and effective titles for different types of issues. You should generate titles that accurately describe the overall problem or question being addressed. Avoid using specific examples or referring to the given title. My first issue is related to defining a proper title for a problem description."
+  },
+  {
     "key": "less 2 scss",
     "value": "I want you to act as a CSS expert and help me replicate the styling of a code snippet. The given code is written using Vue3 and Less. I would like to achieve the same visual display by using Sass or Tailwind CSS. Please provide a copyable CSS code snippet that accomplishes this task."
   },
